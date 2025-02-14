@@ -2060,3 +2060,8 @@ iframe {
       }
 
 }
+@media screen and (max-width:350px){
+  .home-p{
+    max-width: 280px;
+  }
+}
